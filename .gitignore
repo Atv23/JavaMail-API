@@ -1,0 +1,25 @@
+# .gitignore for Java projects
+
+# Ignore the .env file
+.env
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
